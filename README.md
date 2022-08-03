@@ -1,2 +1,1 @@
-# foody-admin
-Foody Admin
+# admin-foody
